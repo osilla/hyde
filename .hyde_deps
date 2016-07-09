@@ -1,0 +1,4 @@
+!!python/unicode 'index.html': [macros.j2, columns.j2, base.j2, analytics.j2, topbar.j2]
+!!python/unicode 'media/css/bootstrap-responsive.css': []
+!!python/unicode 'media/css/bootstrap.css': []
+!!python/unicode 'media/js/libs/bootstrap.min.js': []
